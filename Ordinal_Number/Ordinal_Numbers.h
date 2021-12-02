@@ -1,0 +1,1 @@
+void ordinal(int n);
